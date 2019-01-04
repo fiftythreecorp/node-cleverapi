@@ -1,0 +1,14 @@
+{
+  "name": "cleverapi",
+  "version": "1.0.0",
+  "description": "NodeJs api (clever longpoll)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clever"
+  ],
+  "author": "@severov_info",
+  "license": "ISC"
+}
